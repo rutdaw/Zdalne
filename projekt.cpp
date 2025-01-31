@@ -1,3 +1,4 @@
+#include<iostream>
 
 bool czy_pierwsza(int n) {
     if (n < 2) return false;
